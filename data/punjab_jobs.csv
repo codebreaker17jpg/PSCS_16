@@ -1,0 +1,21 @@
+job_id,title,skills_required,location
+101,Sales Executive,Communication;Sales,Amritsar
+102,Sales Executive,Java;Marketing;Sales,Chandigarh
+103,Finance Associate,Finance;Python;Java,Pathankot
+104,Sales Executive,Marketing;Data Analysis,Jalandhar
+105,Software Engineer,Marketing;Python;Java,Patiala
+106,Data Analyst,Finance;Communication,Patiala
+107,Software Engineer,Marketing;Machine Learning,Chandigarh
+108,Marketing Manager,Java;Python,Patiala
+109,Sales Executive,Sales;Marketing;Data Analysis,Amritsar
+110,Software Engineer,Machine Learning;Excel;Communication,Mohali
+111,Sales Executive,Machine Learning;Excel;Sales;Python,Jalandhar
+112,Marketing Manager,Sales;Excel;Java;Finance,Mohali
+113,Data Analyst,Machine Learning;Data Analysis,Ludhiana
+114,Marketing Manager,Python;Communication;Java,Bathinda
+115,Finance Associate,Sales;Communication;Finance;Python,Mohali
+116,Finance Associate,Data Analysis;Finance,Amritsar
+117,Marketing Manager,Machine Learning;Excel,Jalandhar
+118,Finance Associate,Python;Communication;Java,Mohali
+119,Sales Executive,Excel;Python,Jalandhar
+120,Data Analyst,Python;Marketing;Data Analysis;Communication,Chandigarh

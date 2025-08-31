@@ -1,0 +1,51 @@
+user_id,age,gender,education,skills,location
+1,20,F,B.Sc,Finance;Machine Learning,Patiala
+2,23,M,B.Tech,Excel;Communication;Marketing,Patiala
+3,20,F,B.Tech,Machine Learning,Ludhiana
+4,33,M,MBA,Python;Java,Ludhiana
+5,34,M,MCA,Sales;Finance;Data Analysis,Pathankot
+6,32,M,B.Sc,Excel;Machine Learning,Chandigarh
+7,24,F,MCA,Communication,Pathankot
+8,30,F,Diploma,Finance;Java,Jalandhar
+9,29,F,B.Sc,Machine Learning;Data Analysis;Marketing,Chandigarh
+10,35,F,B.Sc,Java;Machine Learning,Jalandhar
+11,31,M,MCA,Python;Marketing;Finance,Jalandhar
+12,23,F,B.Sc,Excel;Java;Sales,Pathankot
+13,22,F,MBA,Java,Bathinda
+14,28,M,MCA,Marketing;Communication,Mohali
+15,35,M,B.Sc,Communication,Amritsar
+16,20,M,MBA,Excel;Communication,Chandigarh
+17,23,M,MBA,Java,Ludhiana
+18,26,M,Diploma,Marketing;Python,Chandigarh
+19,33,M,MCA,Sales;Machine Learning,Amritsar
+20,33,M,M.Sc,Sales,Ludhiana
+21,33,M,MCA,Excel;Java;Marketing,Jalandhar
+22,35,F,Diploma,Machine Learning;Communication;Sales,Bathinda
+23,32,F,M.Sc,Data Analysis,Patiala
+24,22,F,M.Sc,Data Analysis,Patiala
+25,27,F,B.Tech,Excel;Data Analysis;Finance,Mohali
+26,30,F,MBA,Communication;Data Analysis;Finance,Jalandhar
+27,28,M,MBA,Finance;Machine Learning,Bathinda
+28,34,M,Diploma,Sales;Machine Learning,Jalandhar
+29,31,F,MBA,Finance;Communication,Mohali
+30,26,F,MCA,Python,Patiala
+31,21,F,MCA,Communication;Finance,Ludhiana
+32,30,F,B.Sc,Communication,Mohali
+33,26,M,B.Sc,Sales;Java;Python,Pathankot
+34,24,M,Diploma,Marketing;Java;Python,Chandigarh
+35,26,M,B.Tech,Excel;Marketing,Patiala
+36,31,F,M.Sc,Excel;Machine Learning,Jalandhar
+37,24,F,M.Sc,Marketing;Java;Python,Pathankot
+38,27,F,M.Sc,Communication;Java;Data Analysis,Amritsar
+39,35,F,B.Sc,Machine Learning,Pathankot
+40,20,M,MCA,Sales;Communication;Data Analysis,Ludhiana
+41,32,M,MBA,Java;Machine Learning,Patiala
+42,34,M,MCA,Sales;Marketing,Pathankot
+43,26,M,MCA,Sales;Finance,Amritsar
+44,26,M,MBA,Java;Communication;Marketing,Mohali
+45,28,F,Diploma,Machine Learning;Sales;Finance,Ludhiana
+46,21,F,MBA,Machine Learning,Patiala
+47,22,M,B.Sc,Java;Python,Patiala
+48,28,F,B.Tech,Sales;Data Analysis;Communication,Chandigarh
+49,24,F,M.Sc,Marketing;Java;Finance,Chandigarh
+50,32,M,MCA,Sales,Pathankot
