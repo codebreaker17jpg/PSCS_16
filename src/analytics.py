@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Make sure docs folder exists for charts
 os.makedirs("docs", exist_ok=True)
 
-# Load data
+# Load datapyth
 users = pd.read_csv("data/punjab_users.csv")
 apps  = pd.read_csv("data/punjab_applications.csv")
 
