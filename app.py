@@ -48,7 +48,7 @@ def download_figure_bytes(fig, fmt="png"):
     return buf
 
 # ---------- layout ----------
-st.title("PGRKAM — Analytics & Job Recommender (Polished Demo)")
+st.title("PGRKAM — Analytics & Job Recommender")
 
 # Load data
 with st.spinner("Loading data from DB..."):
